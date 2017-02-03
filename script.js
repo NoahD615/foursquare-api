@@ -9,5 +9,6 @@ var secret = "5CZPEAYSN5WDMJHFWV243PTMENLSF52WGAJEQDPRQFJLFB5G"
         var apixu = https://api.foursquare.com/v2/venues/40a55d80f964a52020f31ee3
         alert(apixu);
         });
+        console.log(id);
     });
 
